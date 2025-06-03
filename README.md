@@ -1,8 +1,8 @@
-# 🐟 Proyecto Final de Programación Orientada a Objetos II - Sistema de Gestión para Pescadería
+#  Proyecto Final de Programación Orientada a Objetos II - Sistema de Gestión para Pescadería 🐟
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java** con interfaz gráfica **Swing**, orientada a la gestión de productos y proveedores de una pescadería. Permite registrar, editar, eliminar y consultar productos y proveedores, así como generar reportes en formato PDF usando **JasperReports**.
 
-## ✨ Características principales
+## (☞ﾟヮﾟ)☞ Características principales
 
 - **Gestión de Productos**:
   - Registro, edición, eliminación y búsqueda de productos.
@@ -21,7 +21,7 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java** con inte
   - Reporte de productos junto con sus proveedores.
   - Generación de archivos PDF usando `.jasper`.
 
-## 🛠️ Tecnologías utilizadas
+## (⌐■_■) Tecnologías utilizadas
 
 - Java (JDK 8 o superior)
 - Swing (JDialog, JFrame, JTable, etc.)
@@ -30,7 +30,7 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java** con inte
 - Apache NetBeans
 - JDBC
 
-## 📁 Estructura general del proyecto
+## Estructura general del proyecto
 
 ProyectoFinalPescaderia/
 ├── src/
@@ -70,17 +70,13 @@ ProyectoFinalPescaderia/
    - Abre el proyecto en NetBeans.
    - Ejecuta la clase `FrmVentanaPrincipal`.
 
-## 🧾 Reportes
+## Reportes
 
 Los reportes se generan al presionar el botón correspondiente en la ventana principal:
 
 - Se genera y muestra un visor (`JasperViewer`).
 - Se guarda automáticamente un archivo PDF (`ReporteProductos.pdf`) en la raíz del proyecto.
 
-## 💬 Autor
+## Autor
 
 - Proyecto universitario realizado por [SoulD64] (Saúl Iván)(https://github.com/SoulD64)
-
-## 📜 Licencia
-
-Este proyecto es solo con fines educativos.
